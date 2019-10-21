@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CrearQR", "CrearQR\CrearQR.vbproj", "{160D408E-979F-42D3-8859-71EB204EEC36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorQR", "GeneradorQR\GeneradorQR.csproj", "{DE4A98C7-9393-4BF3-BE38-9D362F5D88C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160D408E-979F-42D3-8859-71EB204EEC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160D408E-979F-42D3-8859-71EB204EEC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160D408E-979F-42D3-8859-71EB204EEC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160D408E-979F-42D3-8859-71EB204EEC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4A98C7-9393-4BF3-BE38-9D362F5D88C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4A98C7-9393-4BF3-BE38-9D362F5D88C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4A98C7-9393-4BF3-BE38-9D362F5D88C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4A98C7-9393-4BF3-BE38-9D362F5D88C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD7E7DA-EE5F-42E8-B3C3-1D733A1E4023}
+	EndGlobalSection
+EndGlobal
