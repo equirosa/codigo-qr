@@ -13,7 +13,6 @@
     End Sub
 
     Private Sub BotonCaptura_Click(sender As Object, e As EventArgs) Handles BotonCaptura.Click
-        Dim view As WebcamCapturer.Core.WebcamCapturePresenter
         Dim lector As GeneradorQR.CreatorQR = New GeneradorQR.CreatorQR
         TextoCodigo.Text = lector.LeerCodigo()
     End Sub
